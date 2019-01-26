@@ -1,1 +1,1 @@
-from pyjector import Pyjector
+from pyjector.pyjector import Pyjector
